@@ -1,0 +1,13 @@
+[
+	{
+		"category": "vim",
+		"belt": "white",
+		"idCode": "changeLine",
+		"language": "english",
+		"title": "delete a line and start typing a new one",
+		"shortSolution": "cc",
+		"longSolution": "Change Line: Put cursor anywhere on line, press `cc` and start typing new line.",
+		"youtubeVideo": "",
+		"extras": ""
+	}
+]

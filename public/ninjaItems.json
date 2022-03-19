@@ -1,0 +1,13 @@
+[
+	{
+		"category": "vim",
+		"belt": "white",
+		"idCode": "uncommentComment",
+		"language": "english",
+		"title": "comment or uncomment a line",
+		"shortSolution": "gcc",
+		"longSolution": "Put the cursor anywhere on a line and press `gcc` to toggle it being commented or uncommented. Note this works appropriately in various environments, e.g. HTML, CSS, JavaScript",
+		"youtubeVideo": "",
+		"extras": ""
+	}
+]

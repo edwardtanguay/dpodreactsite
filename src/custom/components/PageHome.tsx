@@ -20,7 +20,7 @@ function PageHome() {
 			</ul>
 
 			<div className="notice">
-				The <b>Datpod-for-React</b> project was relaunched March 2022. Please view the <a href="https://github.com/edwardtanguay/dpodreactcore#datapod-roadmap">Datapod Roadmap</a> and get an overview of the <a href="https://github.com/edwardtanguay">three projects</a> (dpodreactcore, dpodreact, and dpodreactsite).
+				The <b>Datapod-for-React</b> project was relaunched March 2022. Please view the <a href="https://github.com/edwardtanguay/dpodreactcore#datapod-roadmap">Datapod Roadmap</a> and get an overview of the <a href="https://github.com/edwardtanguay">three projects</a> (dpodreactcore, dpodreact, and dpodreactsite).
 			</div>
 		</div>
 	)
